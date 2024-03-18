@@ -12,7 +12,6 @@ hello zhuzhuxia! hello git!
 hello zhuzhuxia! hello git!
 hello zhuzhuxia! hello git!
 hello zhuzhuxia! hello git!
-<<<<<<< HEAD
 hello zhuzhuxia! hello git!  master test
 hello zhuzhuxia! hello git! hot-fix test
->>>>>>> hot-fix
+
