@@ -13,4 +13,4 @@ hello zhuzhuxia! hello git!
 hello zhuzhuxia! hello git!
 hello zhuzhuxia! hello git!
 hello zhuzhuxia! hello git!
-hello zhuzhuxia! hello git!
+hello zhuzhuxia! hello git! hot-fix test
